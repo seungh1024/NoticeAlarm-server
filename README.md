@@ -9,7 +9,7 @@
 
 - 서비스명 : INU 공지 알리미
 - 팀 구성원 : 7명(기획 1, 디자인 2, Android 1, IOS 1, Back-End 2)
-- 개발 기간 : 2021.07 ~ 2022.10
+- 개발 기간 : 2021.07 ~ 2021.10
 - Google Play : https://play.google.com/store/apps/details?id=org.jik.notification_proto
 
 # 서비스 소개
